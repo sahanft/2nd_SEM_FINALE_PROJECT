@@ -31,7 +31,12 @@ To prevent this, the project POM contains empty overrides for these elements.
 If you manually switch to a different parent and actually want the inheritance, you need to remove those overrides.
 
 
-### github rep
 
-### creenshots
-![Screenshot (254).png](screenshots%2FScreenshot%20%28254%29.png)
+
+### screenshots
+
+### backend
+![be.png](screenshots%2Fbe.png)
+
+### frontend
+![fe.png](screenshots%2Ffe.png)
