@@ -1,6 +1,127 @@
 # 2nd_SEM_FINALE_PROJECT
 
-# Getting Started
+
+
+### 1. Project Description
+### Purpose of the Project
+
+This is a  system for managing agricultural and animal operations.
+From the structure and files, it’s designed as a Farm System with JWT-based security.
+
+### Key Features (based on controllers & entities)
+
+### Authentication & Security
+
+* AuthUserController, JWTConfigFilter, SequrityConfig
+
+* Implements JWT login/authentication to secure APIs.
+
+* Manages user roles (e.g., administrative, manager, scientist, staff).
+
+### User & Staff Management
+
+UserController, StaffController
+
+Create, update, delete, and manage users and staff.
+
+Staff roles (StaffRole.java) define different permissions/responsibilities.
+
+### Field,planand animal Management
+
+FieldController, AnimalController
+
+Manage fields, assign animals and plants to fields.
+
+Handle plants and animal data (planting, harvesting, etc.).
+
+### Equipment & Vehicle Management
+
+EquipmentController, VehicleController
+
+Keep records of equipment and vehicles used in farming.
+
+Likely tracks availability, maintenance, and assignments.
+
+### Logs & Monitoring
+
+LogController, HealthCheckController
+
+Store operation logs (activities, issues, usage).
+
+System health/status checking.
+
+### DTO & Entity Layer
+
+DTOs (AnimalDTO, FieldDTO, VehicleDTO…) for data transfer.
+
+Entities (AnimalEntity, UserEntity, etc.) map to database tables.
+
+### Exception Handling
+
+Custom exceptions (CropNotFoundException, DataPersistException, etc.).
+
+AppWideExceptionHandler (typo in file: AddWideExceptionHandler.java) for global error handling.
+
+### In Summary
+
+This project is meant to:
+
+Provide a secured API for managing an farm business.
+
+Handle users, staff, plants,animals, fields, equipment, and vehicles.
+
+Keep operation logs and perform system checks.
+
+### -------------------------------------------------------------------------------------------------------------------------------
+
+### 2. Screenshots
+
+### backend
+![be.png](src%2Fscreenshots%2Fbe.png)
+
+### frontend
+![fe.png](src%2Fscreenshots%2Ffe.png)
+
+### dashboard
+![dashboard.png](src%2Fscreenshots%2Fdashboard.png)
+
+### animal and plant managemenet page
+![animal and plant management page.png](src%2Fscreenshots%2Fanimal%20and%20plant%20management%20page.png)
+
+### equipment management page
+![equipment management page.png](src%2Fscreenshots%2Fequipment%20management%20page.png)
+
+### starf managemnet page
+
+![staf management page.png](src%2Fscreenshots%2Fstaf%20management%20page.png)
+
+### vehicle managemnet page
+
+![vehicle management page.png](src%2Fscreenshots%2Fvehicle%20management%20page.png)
+
+### user managemnet page
+
+![user managemnet page.png](src%2Fscreenshots%2Fuser%20managemnet%20page.png)
+
+### field management page
+![filed management page.png](src%2Fscreenshots%2Ffiled%20management%20page.png)
+
+### field management page2
+![filed management page2.png](src%2Fscreenshots%2Ffiled%20management%20page2.png)
+
+### field management page3
+![field management page3.png](src%2Fscreenshots%2Ffield%20management%20page3.png)
+
+### report generate page
+![report genegerate page.png](src%2Fscreenshots%2Freport%20genegerate%20page.png)
+
+### report generate page2
+![report generate page2.png](src%2Fscreenshots%2Freport%20generate%20page2.png)
+
+
+### --------------------------------------------------------------------------------------------------------------------------------
+
+### 3. Setup Instructions
 
 ### Reference Documentation
 
@@ -33,10 +154,3 @@ If you manually switch to a different parent and actually want the inheritance, 
 
 
 
-### screenshots
-
-### backend
-![be.png](screenshots%2Fbe.png)
-
-### frontend
-![fe.png](screenshots%2Ffe.png)
