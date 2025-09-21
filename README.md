@@ -10,6 +10,9 @@ https://github.com/sahanft/GREENSHADOW-BACKEND
 ### 2.FRONTEND LINK
 https://github.com/sahanft/GREENSHADOW-FRONTEND
 
+### YOUTUBE DEMO LINK
+https://youtu.be/hbjicdQsz3M?si=I0pFsYWq1lxCAnlk
+
 
 
 ### 1. Project Description
