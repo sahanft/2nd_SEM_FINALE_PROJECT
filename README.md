@@ -2,6 +2,16 @@
 
 
 
+### BACKEND AND FRONTEND GITHUB REPO LINKS
+
+### 1. BACKEND LINK
+https://github.com/sahanft/GREENSHADOW-BACKEND
+
+### 2.FRONTEND LINK
+https://github.com/sahanft/GREENSHADOW-FRONTEND
+
+
+
 ### 1. Project Description
 ### Purpose of the Project
 
