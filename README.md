@@ -77,46 +77,43 @@ Keep operation logs and perform system checks.
 ### 2. Screenshots
 
 ### backend
-![be.png](src%2Fscreenshots%2Fbe.png)
+![be.png](screenshots%2Fbe.png)
 
 ### frontend
-![fe.png](src%2Fscreenshots%2Ffe.png)
+![fe.png](screenshots%2Ffe.png)
 
 ### dashboard
-![dashboard.png](src%2Fscreenshots%2Fdashboard.png)
+![dashboard.png](screenshots%2Fdashboard.png)
 
 ### animal and plant managemenet page
-![animal and plant management page.png](src%2Fscreenshots%2Fanimal%20and%20plant%20management%20page.png)
+![animal and plant management page.png](screenshots%2Fanimal%20and%20plant%20management%20page.png)
 
 ### equipment management page
-![equipment management page.png](src%2Fscreenshots%2Fequipment%20management%20page.png)
+![equipment management page.png](screenshots%2Fequipment%20management%20page.png)
 
 ### starf managemnet page
-
-![staf management page.png](src%2Fscreenshots%2Fstaf%20management%20page.png)
+![staf management page.png](screenshots%2Fstaf%20management%20page.png)
 
 ### vehicle managemnet page
-
-![vehicle management page.png](src%2Fscreenshots%2Fvehicle%20management%20page.png)
+![vehicle management page.png](screenshots%2Fvehicle%20management%20page.png)
 
 ### user managemnet page
-
-![user managemnet page.png](src%2Fscreenshots%2Fuser%20managemnet%20page.png)
+![user managemnet page.png](screenshots%2Fuser%20managemnet%20page.png)
 
 ### field management page
-![filed management page.png](src%2Fscreenshots%2Ffiled%20management%20page.png)
+![filed management page.png](screenshots%2Ffiled%20management%20page.png)
 
 ### field management page2
-![filed management page2.png](src%2Fscreenshots%2Ffiled%20management%20page2.png)
+![filed management page2.png](screenshots%2Ffiled%20management%20page2.png)
 
 ### field management page3
-![field management page3.png](src%2Fscreenshots%2Ffield%20management%20page3.png)
+![field management page3.png](screenshots%2Ffield%20management%20page3.png)
 
 ### report generate page
-![report genegerate page.png](src%2Fscreenshots%2Freport%20genegerate%20page.png)
+![report genegerate page.png](screenshots%2Freport%20genegerate%20page.png)
 
 ### report generate page2
-![report generate page2.png](src%2Fscreenshots%2Freport%20generate%20page2.png)
+![report generate page2.png](screenshots%2Freport%20generate%20page2.png)
 
 
 ### --------------------------------------------------------------------------------------------------------------------------------
